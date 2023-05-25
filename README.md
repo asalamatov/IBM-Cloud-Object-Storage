@@ -9,7 +9,7 @@ https://cloud-object-storage-cos-standard-n34.s3.us-east.cloud-object-storage.ap
 https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL2NjMjAxL2xhYnMvMV9Db250YWluZXJzQW5kRG9ja2VyL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6InRoZWlhIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzEwOTk0NTZ9.Uz9JVs3JJAU-59EA2OPwLzh48gD4l_jYgz1atinsj0k
 
 # Cheat Sheet: Docker CLI
-`
+```
 Command	Description
 curl localhost	Pings the application.
 docker build	Builds an image from a Dockerfile.
@@ -36,4 +36,4 @@ ibmcloud cr namespaces	Views the namespaces you have access to.
 ibmcloud cr region-set	Ensures that you are targeting the region appropriate to your cloud account.
 ibmcloud target	Provides information about the account you’re targeting.
 ibmcloud version	Displays the version of the IBM Cloud CLI.
-ls	Lists the contents of this directory to see the artifacts.`
+ls	Lists the contents of this directory to see the artifacts.```
